@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+ircclient.pyc
+twitchconfig.py
